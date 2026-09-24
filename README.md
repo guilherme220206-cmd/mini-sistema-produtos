@@ -40,7 +40,7 @@ Projeto acadêmico de um mini sistema de gestão de produtos desenvolvido com **
    `http://localhost/mini-sistema-produtos/database/setup.php`
 5. Após a mensagem de sucesso, acesse:
    `http://localhost/mini-sistema-produtos/`
-6. Crie um usuário pela opção **Criar cadastro**
+6. Crie um usuário pela opção **Criar cadastro**.
 
 ## Estrutura
 
